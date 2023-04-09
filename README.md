@@ -1,4 +1,5 @@
 # 💫 About Me:
+# console.log("Hello World!! 👋")
 Full Stack Web Development Student at CODERHOUSE<br><br>I would like to be able to work in a company dedicated to IT in the future and be able to contribute to the solution of digital problems.<br><br>I already finished my Front End studies (HTML, CSS, JavaScript, ReactJS) and I am currently studying the Back End development degree (NodeJS, MongoDB)<br><br>CSS fanatic
 
 
